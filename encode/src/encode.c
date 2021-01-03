@@ -4,7 +4,7 @@
  Author      : Daniel Reimer
  Version     :
  Description : Proof of Concept for character encoder
- Encodes two characters (because only integers, commas, and periods are needed)
+ Encodes two characters (because only integers, semi-colons, and periods are needed)
  as one and then decodes them
  ============================================================================
  */
